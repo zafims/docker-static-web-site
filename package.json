@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/prakhar1989/docker-curriculum.git"
   },
-  "author": "Prakhar Srivastav <prakhar1989@gmail.com>",
+  "author": "Prakhar Srivastav <prakhar@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/prakhar1989/docker-curriculum/issues"
